@@ -32,6 +32,24 @@ The **Text OCR App** is an Android application that utilizes **Google ML Kit** t
 - **Reset:**
    + The user can reset the app to its initial state by clicking the “Clear” button.
    + The app will clear the displayed text, hide the "Copy" and "Clear" buttons, and reset the image to a default placeholder.
+ 
+### Screenshots Of the Text OCR App Version 01 
+
+
+Splash Screen of the App
+![Screenshot 2025-01-07 235335](https://github.com/user-attachments/assets/c9c40821-1145-48cf-85e1-7930f2f175b1)
+
+
+Main Page of the App - Default View
+![Screenshot 2025-01-07 235342](https://github.com/user-attachments/assets/8b9cf32e-2a10-41d8-98ca-56a94e2a9c3d)
+
+
+After Capturing the Image, The Main Page View is Displayed.
+![Screenshot 2025-01-07 235355](https://github.com/user-attachments/assets/3ccee427-7f3d-41cd-bdbe-2a8ee51b4a77)
+
+
+After Pressing the Reset Button, The Main Page View is Displayed.
+![Screenshot 2025-01-07 235342](https://github.com/user-attachments/assets/8b9cf32e-2a10-41d8-98ca-56a94e2a9c3d)
 
 
 
