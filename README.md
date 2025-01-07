@@ -1,1 +1,1 @@
-## Text OCR APP Version 01
+## 📋📷 Text OCR App Version 01 📸📄
