@@ -51,14 +51,14 @@ After Capturing the Image, The Main Page View is Displayed on the Android Emulat
 After Pressing the Reset Button, The Main Page View is Displayed on the Android Emulator
 ![Screenshot 2025-01-07 235342](https://github.com/user-attachments/assets/8b9cf32e-2a10-41d8-98ca-56a94e2a9c3d)
 
-Capture the Image, The Main Page View in my Mobile Phone
-![Screenshot_20250114_172649](https://github.com/user-attachments/assets/d08e465b-f662-486b-bb75-eb8d0a6b3d2e)
+    Capture the Image, The Main Page View in my Mobile Phone
+![Untitled-1](https://github.com/user-attachments/assets/53e4deb7-6b24-44f3-9ba2-fc8e4f93c99f)
 
-Press The Copy Button, The Main Page View is Displayed on my Mobile Phone
-![Screenshot_20250114_172721](https://github.com/user-attachments/assets/c545d74e-6b18-46ed-85b0-e4d50eb297a1)
+    Press The Copy Button, The Main Page View is Displayed on my Mobile Phone
+![Untitled-2](https://github.com/user-attachments/assets/44b01923-ec5b-4254-81ac-4b8ad9216aea)
 
-Press The Reset Button, The Main Page View is Displayed on my Mobile Phone
-![Screenshot_20250114_172730](https://github.com/user-attachments/assets/ab8ed26c-465c-4bae-a424-0c66910e8161)
+    Press The Reset Button, The Main Page View is Displayed on my Mobile Phone
+![Untitled-3](https://github.com/user-attachments/assets/f4672776-61e9-4d0b-9940-7375842b8411)
 
 
 
